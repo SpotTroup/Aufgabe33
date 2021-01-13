@@ -1,7 +1,7 @@
 # Aufgabe33
 
 
-####    Aufgage 3.3 Traveling Salesman Proble
+####    Aufgabe 3.3 Traveling Salesman Proble
 ####    Lösungsansatz mit Dijkstra-Algorithmus für ungerichtete gewichtete Graphen mit Hashtabellen
 ####    "Welcher Pfad von Kiel nach Kiel über alle Punkte ist der "günstigste" ?"
 ####    Tjark Ziehm
